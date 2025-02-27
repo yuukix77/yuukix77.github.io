@@ -1,16 +1,13 @@
 ---
 permalink: /
-title: "Zhou Yang's Academic Pages"
+title: "ZhouYang Lab Academic Pages"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is ZhouLab'webpage. You can find any information about our Lab. 
-
-# Lab's Introduction
-At the neural coding lab, we seek to understand how information is represented and processed in the mammalian brain to support flexible perception and behavior. To learn more, please check out our [research directions](https://www.baidu.com) and [publications](https://www.baidu.com).
+At the ZhouYang lab, we seek to understand how information is represented and processed in the mammalian brain to support flexible perception and behavior. To learn more, please check out our [research directions](https://www.baidu.com) and [publications](https://www.baidu.com).
 
 # Reserch Interest 
 1. Neural Circuits and Mechanisms: Investigate the neural circuits and computational principles underlying advanced cognitive functions such as abstract concept representation, learning, and flexible decision-making in humans and primates.
