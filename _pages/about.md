@@ -32,4 +32,4 @@ Our interdisciplinary lab seeks **self-driven, curious students** passionate abo
 Students will engage in cutting-edge projects spanning neural circuit analysis, AI-driven data modeling, and neuroengineering tool development. Whether you’re designing algorithms to decode neural activity, engineering hardware for brain-machine interfaces, or integrating machine learning with experimental neuroscience, your work will contribute to breakthroughs in AI ethics, disease treatment, and next-generation computing.
 
 
-Interested candidates should submit a CV, a brief research statement outlining their interests and goals, and examples of technical work (e.g., code, projects) to Yangzhou@pku.edu.cn with the subject “ZhouyangLab Application.” Join us to shape the future of brain-inspired technology!
+Interested candidates should submit a CV, a brief research statement outlining their interests and goals, and examples of technical work (e.g., code, projects) to **Yangzhou1@pku.edu.cn** with the subject “ZhouyangLab Application.” Join us to shape the future of brain-inspired technology!
