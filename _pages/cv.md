@@ -9,56 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Education
+-  Ph.D in Neuroscience, Shanghai Institute of Neuroscience, Chinese Academy of Sciences, 2013
+-  B.S. in Life Science, School of Life Science, Lanzhou University, 2008
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# Work experience
+* 2020 ~ Now: Researcher, Principle Investigator 
+  * School of Psychological and Cognitive Sciences, Peking University
+  * IDG/Mcgovern Institute, Peking University
+  * Center for Life Science(CLS)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2013 ~ 2020: Postdoc
+  * School of Neurobiology, The University of Chicago
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2013 ~ 2015: Postdoc
+  * State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
+# Teaching
+- 神经生物学. Fall.
+- 神经Track. PTN. Fall.
+# Service and leadership
 * Currently signed in to 43 different slack teams
