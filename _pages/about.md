@@ -25,7 +25,7 @@ At the ZhouYang lab, we seek to understand how information is represented and pr
 
 ***2021.01.08 Student Li got his first publication "神经工程发展现状" in journal "《现代生物学进展》, congrats! "*** 
 
-# Join us
+# Join Us
 
 Our interdisciplinary lab seeks **self-driven, curious students** passionate about merging **neuroscience, neural engineering, and artificial intelligence** to advance fundamental discovery and real-world innovation. We investigate how the brain represents abstract concepts, learns flexibly, and makes decisions—research that directly informs the development of brain-inspired AI systems and therapies for cognitive disorders. While our primary focus is on awake primate neuroscience using techniques like multi-brain-region electrophysiology, optogenetics, and two-photon imaging, **we actively seek collaborators from diverse backgrounds, including computer science, electrical engineering, and beyond**.
 
