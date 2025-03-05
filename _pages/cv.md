@@ -30,5 +30,4 @@ redirect_from:
 # Teaching
 - 神经生物学. Fall.
 - 神经Track. PTN. Fall.
-# Service and leadership
-* Currently signed in to 43 different slack teams
+
