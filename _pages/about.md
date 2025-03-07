@@ -16,14 +16,6 @@ At the ZhouYang lab, we seek to understand how information is represented and pr
 4. Disease Treatment and Applications：Develop interventions for cognitive disorders (e.g., Alzheimer’s disease, schizophrenia) and advance neuromorphic AI by leveraging neural circuit mechanisms.
 5. Brain-Inspired AI Algorithm: Develop new AI algorithm form the reference of the brain circuit and brain mechanism 
 
-# News
-***2023.05.12 Student Xie has achieved a golden medal in the competetion "Table Tennis IDG/Mcgoven"***
-
-***2023.04.11 Student Wang join South China Normal University as an asssistant professor***
-
-***2022.04.12 Our lab won the Safe-lab Award in Peking University***
-
-***2021.01.08 Student Li got his first publication "神经工程发展现状" in journal "《现代生物学进展》, congrats! "*** 
 
 # Join Us
 
